@@ -109,15 +109,8 @@ Service-layer unit tests with Mockito and controller integration tests with `@We
 ## 🎓 Certifications
 
 - **[Backend Web Development with Java & Spring Boot](https://ostad.app/share/certificate/c45999-most.-fatema-tuj-zohra)** — Ostad · Nov 2025 – Jul 2026 · [Final Score **97.3%**](https://ostad.app/share/certificate/c46000-most.-fatema-tuj-zohra)
-- **[Introduction to Software Engineering](https://lnkd.in/gz3AvJns)** — IBM (Coursera) · Final Score **100%** · May 2026
-- **[Java Programming for Beginners](https://lnkd.in/gcY4mNSQ)** — IBM (Coursera) · Final Score **100%** · Jul 2026
-
----
-
-## 💼 Experience
-
-**Backend & Automation Developer** — Upwork (Freelance), Remote · Mar 2025 – Present
-Built Python backend services and data pipelines delivering **20,000+ structured records** across three client engagements, **scalable to 100,000+ through a single config change.**
+- **[Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/BINSM21OJTX6)** — IBM (Coursera) · Final Score **100%** · May 2026
+- **[Java Programming for Beginners](https://www.coursera.org/account/accomplishments/verify/W4I1LETN2HM8)** — IBM (Coursera) · Final Score **100%** · Jul 2026
 
 ---
 
@@ -126,13 +119,6 @@ Built Python backend services and data pipelines delivering **20,000+ structured
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ftzohra0x1)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatemaTujZohra20)
 [![Email](https://img.shields.io/badge/Email-fatematujzohra20%40gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatematujzohra20@gmail.com)
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=FatemaTujZohra20&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaTujZohra20&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400)
 
 ---
 
