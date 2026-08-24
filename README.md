@@ -1,14 +1,16 @@
-# Hi, I'm Most. Fatema Tuj Zohra
-
-**Java Backend Developer — Spring Boot · REST APIs · Microservices**
-API Design · JPA/Hibernate Modeling · Test-Driven Development
-📍 Rajshahi, Bangladesh · Open to Backend Java roles (BD / EU / remote)
-
-I design and build production-grade REST APIs with Spring Boot.
-From Bengali Literature graduate to backend engineer — I taught myself the full
-backend lifecycle and now ship services with real validation contracts, real error
-handling, and real test coverage.
-Currently building toward a Backend Java Developer role on a strong engineering team.
+<h1 align="center">Hi, I'm Most. Fatema Tuj Zohra</h1>
+ 
+<p align="center">
+  <strong>Java Backend Developer — Spring Boot · REST APIs · Microservices</strong><br>
+  API Design · JPA/Hibernate Modeling · Test-Driven Development<br>
+  📍 Rajshahi, Bangladesh · Open to Backend Java roles (BD / EU / remote)
+</p>
+<p align="center">
+  I design and build production-grade REST APIs with Spring Boot.<br>
+  Comfortable across the full backend lifecycle — JPA/Hibernate modeling, Spring Security,<br>
+  validation, exception handling, structured logging, and Docker.<br>
+  Currently building toward a Backend Java Developer role on a strong engineering team.
+</p>
 
 ---
 
