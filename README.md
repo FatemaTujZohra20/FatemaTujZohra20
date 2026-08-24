@@ -132,12 +132,12 @@ Built Python backend services and data pipelines delivering **20,000+ structured
 ---
 
 ## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=FatemaTujZohra20&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaTujZohra20&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=FatemaTujZohra20&theme=dark&hide_border=true)
-
+ 
+![](https://github-readme-stats.vercel.app/api?username=FatemaTujZohra20&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaTujZohra20&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400)
+ 
+![](https://streak-stats.demolab.com?user=FatemaTujZohra20&theme=dark&hide_border=true)
+ 
 ---
 
 *"Validate the input. Handle the exception. Test the failure path."*
