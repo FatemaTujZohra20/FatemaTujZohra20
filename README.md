@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Most. Fatema Tuj Zohra
 
 **Java Backend Developer — Spring Boot · REST APIs · Microservices**
@@ -16,37 +14,37 @@ Currently building toward a Backend Java Developer role on a strong engineering 
 
 ## Featured Projects
 
-### [E-Commerce Backend Platform](https://github.com/FatemaTujZohra20/ecommerce-backend)
+### [E-Commerce Backend Platform](https://github.com/FatemaTujZohra20/E-Commerce-Backend-Platform-Java_SpringBoot_Ostad_Batch03_Module22_Assignment)
 
 Full commerce backend with filtered search via JPA Specifications and pagination across products and categories. Built a Levenshtein-distance cart suggestion engine and a coupon system with per-code percentage caps, plus an end-to-end Stripe payment flow with SMTP order confirmations on successful payment. Migrated destructive `DELETE` endpoints to a **soft-delete pattern preserving full auditability.**
 `Spring Boot` `Spring Data JPA` `PostgreSQL` `Stripe` `SMTP` `Docker`
 
-### [AI CV Evaluator](https://github.com/FatemaTujZohra20/ai-cv-evaluator)
+### [AI CV Evaluator](https://github.com/FatemaTujZohra20/AI-CV-Evaluator-Java_SpringBoot_Ostad_Batch03_Module24_Assignment)
 
 Spring Boot REST API that scores CV image uploads across five hiring dimensions using Spring AI's multimodal `ChatClient` (Google Gemini), returning structured 0–100 JSON. Architected the prompt pipeline against `spring-ai-client-chat` so the provider is **swappable to OpenAI or Anthropic by changing a single starter dependency** — vendor flexibility that matters under corporate AI procurement and compliance review.
 `Spring Boot` `Spring AI` `Multimodal ChatClient` `Google Gemini` `REST`
 
-### [Weather Information Service](https://github.com/FatemaTujZohra20/weather-service)
+### [Weather Information Service](https://github.com/FatemaTujZohra20/Weather_Information_Service_Java_SpringBoot_Ostad_Batch03_Module28_Assignment)
 
 Single `GET /api/weather?city={city}` endpoint returning latitude, longitude, temperature, wind speed and humidity as structured JSON from WeatherAPI. A **1-minute PostgreSQL freshness cache serves repeat requests from storage instead of re-calling the upstream API**, cutting third-party call volume. API keys loaded through environment-based configuration — never hard-coded, never committed.
 `Spring Boot` `PostgreSQL` `Caching` `WeatherAPI` `Externalized Config`
 
-### [Inventory Management API](https://github.com/FatemaTujZohra20/inventory-management-api)
+### [Inventory Management API](https://github.com/FatemaTujZohra20/Inventory_Management_API_Java_SpringBoot_Ostad_Batch03_Module27_Assignment)
 
 CRUD endpoints for product creation and retrieval with bean-validated inputs on every request. Stock in/out operations write a **persisted stock-change history**, with a zero-floor quantity constraint enforced at the service layer rather than the database — the stock-consistency and audit-trail discipline required in inventory, billing and financial-ledger systems.
 `Spring Boot` `Spring Data JPA` `PostgreSQL` `Bean Validation`
 
-### [Product Inventory API — Error Contract Discipline](https://github.com/FatemaTujZohra20/product-inventory-api)
+### [Product Inventory API — Error Contract Discipline](https://github.com/FatemaTujZohra20/Product-Inventory-API-Java_SpringBoot_Ostad_Batch03_Module14_Assignment)
 
 Production-style REST service built around a clean error contract: bean validation, custom domain exceptions, and a `@RestControllerAdvice` global handler returning correct **400 / 404 / 409** semantics. Disciplined `DEBUG / INFO / WARN / ERROR` logging via SLF4J throughout — the kind of stable contract that keeps downstream consumers' integrations from breaking.
 `Spring Boot` `@RestControllerAdvice` `Bean Validation` `SLF4J`
 
-### [Secure Note-Taking API](https://github.com/FatemaTujZohra20/secure-notes-api)
+### [Secure Note-Taking API](https://github.com/FatemaTujZohra20/Secure-Note-Taking-Application-Java_SpringBoot_Ostad_Batch03_Module15_Assignment)
 
 Spring Security HTTP Basic authentication backed by a database user store, with **role-based access control (`USER`, `ADMIN`) enforced at the endpoint level** — the access-control foundation behind every multi-tenant SaaS and internal tool.
 `Spring Boot` `Spring Security` `RBAC` `PostgreSQL`
 
-### [Warehouse Management — Test Coverage](https://github.com/FatemaTujZohra20/warehouse-management-tests)
+### [Warehouse Management — Test Coverage](https://github.com/FatemaTujZohra20/Warehouse-Management--Java_SpringBoot_Ostad_Batch03_Module16_Assignment)
 
 Service-layer unit tests with Mockito and controller integration tests with `@WebMvcTest`, **covering both happy-path and error scenarios** rather than only the paths that pass. Written to catch regressions before they reach production.
 `JUnit 5` `Mockito` `MockMvc` `@WebMvcTest` `Spring Boot Test`
@@ -110,9 +108,9 @@ Service-layer unit tests with Mockito and controller integration tests with `@We
 
 ## 🎓 Certifications
 
-- **Backend Web Development with Java & Spring Boot** — Ostad · Final Score **97.3%** · Nov 2025 – Jul 2026
-- **Introduction to Software Engineering** — IBM (Coursera) · Final Score **100%** · May 2026
-- **Java Programming for Beginners** — IBM (Coursera) · Final Score **100%** · Jul 2026
+- **[Backend Web Development with Java & Spring Boot](https://ostad.app/share/certificate/c45999-most.-fatema-tuj-zohra)** — Ostad · Nov 2025 – Jul 2026 · [Final Score **97.3%**](https://ostad.app/share/certificate/c46000-most.-fatema-tuj-zohra)
+- **[Introduction to Software Engineering](https://lnkd.in/gz3AvJns)** — IBM (Coursera) · Final Score **100%** · May 2026
+- **[Java Programming for Beginners](https://lnkd.in/gcY4mNSQ)** — IBM (Coursera) · Final Score **100%** · Jul 2026
 
 ---
 
@@ -132,12 +130,10 @@ Built Python backend services and data pipelines delivering **20,000+ structured
 ---
 
 ## 📈 GitHub Stats
- 
-![](https://github-readme-stats.vercel.app/api?username=FatemaTujZohra20&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400)
+
+![](https://github-readme-stats.vercel.app/api?username=FatemaTujZohra20&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaTujZohra20&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400)
- 
-![](https://streak-stats.demolab.com?user=FatemaTujZohra20&theme=dark&hide_border=true)
- 
+
 ---
 
 *"Validate the input. Handle the exception. Test the failure path."*
