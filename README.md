@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Most. Fatema Tuj Zohra</h1>
  
 <p align="center">
-  <strong>Java Backend Developer — Spring Boot · REST APIs · Microservices</strong><br>
+  <strong>Java Backend Engineer — Spring Boot · REST APIs · Microservices</strong><br>
   API Design · JPA/Hibernate Modeling · Test-Driven Development<br>
   📍 Rajshahi, Bangladesh · Open to Backend Java roles (BD / EU / remote)
 </p>
@@ -110,10 +110,11 @@ Service-layer unit tests with Mockito and controller integration tests with `@We
 
 ## 🎓 Certifications
 
-- **[Backend Web Development with Java & Spring Boot](https://ostad.app/share/certificate/c45999-most.-fatema-tuj-zohra)** — Ostad · Nov 2025 – Jul 2026 · [Final Score **97.3%**](https://ostad.app/share/certificate/c46000-most.-fatema-tuj-zohra)
+- **[Backend Web Development with Java & Spring Boot](https://ostad.app/share/certificate/c45999-most.-fatema-tuj-zohra)** — Ostad · Nov 2025 – Jul 2026 · [Final Score **97.3%**](https://ostad.app/share/certificate/c46000-most.-fatema-tuj-zohra)   #Rank 1
 - **[Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/BINSM21OJTX6)** — IBM (Coursera) · Final Score **100%** · May 2026
 - **[Java Programming for Beginners](https://www.coursera.org/account/accomplishments/verify/W4I1LETN2HM8)** — IBM (Coursera) · Final Score **100%** · Jul 2026
 - **[Object-Oriented Programming in Java](https://www.coursera.org/account/accomplishments/verify/UCOFCS1C46YL)** — IBM (Coursera) · Final Score **100%** · Aug 2026
+- **[Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/26SVSDUE3T6P)** — IBM (Coursera) · Final Score **95%** · Sep 2026
 
 ---
 
